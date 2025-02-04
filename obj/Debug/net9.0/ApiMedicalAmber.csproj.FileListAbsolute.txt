@@ -31,3 +31,7 @@
 /Users/eliwfdez/Documents/Net/ApiMedicalAmber/obj/Debug/net9.0/ApiMedicalAmber.pdb
 /Users/eliwfdez/Documents/Net/ApiMedicalAmber/obj/Debug/net9.0/ApiMedicalAmber.genruntimeconfig.cache
 /Users/eliwfdez/Documents/Net/ApiMedicalAmber/obj/Debug/net9.0/ref/ApiMedicalAmber.dll
+/Users/eliwfdez/Documents/Net/ApiMedicalAmber/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/eliwfdez/Documents/Net/ApiMedicalAmber/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/eliwfdez/Documents/Net/ApiMedicalAmber/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/eliwfdez/Documents/Net/ApiMedicalAmber/obj/Debug/net9.0/ApiMedicalAmber.sourcelink.json
