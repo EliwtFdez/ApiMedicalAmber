@@ -1,5 +1,9 @@
-# dependencies
-node_modules/
-
-# bin
+# Binarios y objetos
 bin/
+obj/
+
+# Archivos de configuración local
+appsettings.Development.json
+
+# Dependencias
+node_modules/
